@@ -13,7 +13,7 @@
 
 ### 🚀 Tecnologias e Ferramentas
 
-### 🚀 Tecnologias que uso
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="80" alt="Java" />
