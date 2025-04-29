@@ -4,7 +4,7 @@
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
   💼 Buscando oportunidades na área de tecnologia <br>
-  - 📖 Estudando **Java, Spring Boot, APIs REST, Docker, Git/GitHub, SQL e Cloud <b>
+  - 📖 Estudando Java, Spring Boot, APIs REST, Docker, Git/GitHub, SQL e Cloud <b>
     
   </b>
 </p>
