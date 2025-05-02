@@ -1,10 +1,11 @@
+
 <h1 align="center">Hi! I am Manuel Ntanfumu</h1>
-<h3 align="center">Júnior em Ciência de Dados 📊</h3>
+<h3 align="center">Cientista de Dados em formação 📊</h3>
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
   💼 Em busca de oportunidades na área de Ciência de Dados <br>
-  📚 Estudando Python, SQL, Estatística, Machine Learning, Pandas, Power BI e Visualização de Dados
+  📚 Estudando Python, SQL, Estatística, Machine Learning, Pandas, Power BI, Apache Spark e Visualização de Dados
 </p>
 
 ---
@@ -17,8 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="70" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="70" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="70" alt="Apache" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="70" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="70" alt="Git" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="70" alt="Power BI" />
 </p>
 
 ---
@@ -28,6 +31,7 @@
 - Fundamentos de Estatística e Probabilidade  
 - Análise de Dados com Python (pandas, NumPy, matplotlib, seaborn)  
 - Machine Learning com Scikit-learn  
+- Processamento de Dados com Apache Spark  
 - Banco de Dados com SQL  
 - Power BI e Visualização de Dados  
 
