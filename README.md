@@ -1,31 +1,35 @@
 <h1 align="center">Hi! I am Manuel Ntanfumu</h1>
-<h3 align="center">Back-End Developer Java 🚀</h3>
+<h3 align="center">Aspirante a Cientista de Dados 📊</h3>
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-  💼 Buscando oportunidades na área de tecnologia <br>
-  - 📖 Estudando Java, Spring Boot, APIs REST, Docker, Git/GitHub, SQL e Cloud <b>
-    
-  </b>
+  💼 Em busca de oportunidades na área de Ciência de Dados <br>
+  📚 Estudando Python, SQL, Estatística, Machine Learning, Pandas, Power BI e Visualização de Dados
 </p>
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
-
-
-<<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="80" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="80" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="80" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="80" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="80" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="80" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="80" alt="AWS Cloud" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="70" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="70" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="70" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="70" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="70" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="70" alt="Git" />
 </p>
 
+---
+
+### 📊 Atualmente aprendendo
+
+- Fundamentos de Estatística e Probabilidade  
+- Análise de Dados com Python (pandas, NumPy, matplotlib, seaborn)  
+- Machine Learning com Scikit-learn  
+- Banco de Dados com SQL  
+- Power BI e Visualização de Dados  
 
 ---
 
@@ -42,16 +46,13 @@
 
 <p align="center">
   📧 E-mail: manuelntanfumu0@gmail.com <br>
-  💼 <a href="https://www.linkedin.com/in/manuel-filipe-ntanfumu-384612292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn (adicione o seu!)</a>
+  💼 <a href="https://www.linkedin.com/in/manuel-filipe-ntanfumu-384612292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a>
 </p>
 
----
-
- 
 ---
 
 ### 💬 Frase que me inspira
 
 > “Persistência transforma potencial em realidade.” 
 
-
+---
