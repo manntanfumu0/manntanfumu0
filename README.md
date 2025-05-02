@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I am Manuel Ntanfumu</h1>
-<h3 align="center">Aspirante a Cientista de Dados 📊</h3>
+<h3 align="center">Júnior em Ciência de Dados 📊</h3>
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
