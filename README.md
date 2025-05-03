@@ -1,11 +1,10 @@
-
 <h1 align="center">Hi! I am Manuel Ntanfumu</h1>
-<h3 align="center">Cientista de Dados em formação 📊</h3>
+<h3 align="center">Desenvolvedor Back-End em formação 💻</h3>
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-  💼 Em busca de oportunidades na área de Ciência de Dados <br>
-  📚 Estudando Python, SQL, Estatística, Machine Learning, Pandas, Power BI, Apache Spark e Visualização de Dados
+  💼 Em busca de oportunidades como Desenvolvedor Back-End <br>
+  📚 Estudando Java, Spring Boot, SQL, APIs REST, Git, Docker, UML, JDBC, JPA, Hibernate, MongoDB e muito mais!
 </p>
 
 ---
@@ -13,27 +12,32 @@
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="70" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="70" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="70" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="70" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="70" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="70" alt="Apache" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="70" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="70" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="70" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="70" alt="Git" />
-  <img src="https://img.icons8.com/color/96/power-bi.png" height="70" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="70" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="70" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="70" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="70" alt="AWS" />
 </p>
 
 ---
 
-### 📊 Atualmente aprendendo
+### 📚 Atualmente aprendendo
 
-- Fundamentos de Estatística e Probabilidade  
-- Análise de Dados com Python (pandas, NumPy, matplotlib, seaborn)  
-- Machine Learning com Scikit-learn  
-- Processamento de Dados com Apache Spark  
-- Banco de Dados com SQL  
-- Power BI e Visualização de Dados  
+- Desenvolvimento de APIs REST com Java + Spring Boot  
+- JDBC, JPA e Hibernate para integração com bancos de dados  
+- Modelagem e Diagramação com UML  
+- SQL com MySQL e PostgreSQL  
+- Banco de dados NoSQL com MongoDB  
+- Git e GitHub para versionamento  
+- Containers com Docker  
+- Noções de AWS para serviços back-end  
+- Testes com JUnit  
 
 ---
 
