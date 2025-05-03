@@ -1,10 +1,10 @@
-<h1 align="center">Hi! I am Manuel Ntanfumu</h1>
+<h1 align="center">Olá! Eu sou o Manuel Ntanfumu</h1>
 <h3 align="center">Desenvolvedor Back-End em formação 💻</h3>
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
   💼 Em busca de oportunidades como Desenvolvedor Back-End <br>
-  📚 Estudando Java, Spring Boot, SQL, APIs REST, Git, Docker, UML, JDBC, JPA, Hibernate, MongoDB e muito mais!
+  📚 Atualmente estudando Java, Spring Boot, SQL, APIs REST, Git, Docker, MongoDB, UML, entre outros
 </p>
 
 ---
@@ -22,22 +22,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="70" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="70" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="70" alt="AWS" />
+  <img src="https://img.icons8.com/color/96/amazon-web-services.png" height="70" alt="AWS" />
 </p>
 
 ---
 
 ### 📚 Atualmente aprendendo
 
-- Desenvolvimento de APIs REST com Java + Spring Boot  
-- JDBC, JPA e Hibernate para integração com bancos de dados  
-- Modelagem e Diagramação com UML  
-- SQL com MySQL e PostgreSQL  
-- Banco de dados NoSQL com MongoDB  
-- Git e GitHub para versionamento  
+- Desenvolvimento de APIs REST com Java e Spring Boot  
+- JDBC, JPA e Hibernate para persistência de dados  
+- Modelagem de sistemas com UML  
+- Banco de dados relacionais: MySQL e PostgreSQL  
+- Banco de dados NoSQL: MongoDB  
 - Containers com Docker  
-- Noções de AWS para serviços back-end  
-- Testes com JUnit  
+- Versionamento com Git e GitHub  
+- Fundamentos de computação em nuvem com AWS  
+- Testes com JUnit e Postman
 
 ---
 
@@ -61,6 +61,6 @@
 
 ### 💬 Frase que me inspira
 
-> “Persistência transforma potencial em realidade.” 
+> “Persistência transforma potencial em realidade.”
 
 ---
