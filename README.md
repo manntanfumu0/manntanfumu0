@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Manuel Ntanfumu</h1>
+<h1 align="center">Hi! I am Manuel Ntanfumu</h1>
 <h3 align="center">Desenvolvedor Back-End em formação 💻</h3>
 
 <p align="center">
