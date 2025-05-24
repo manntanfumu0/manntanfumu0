@@ -1,15 +1,24 @@
-<h1 align="center">Hi! I am Manuel Ntanfumu</h1>
-<h3 align="center">Futuro Engenheiro de Dados 🚀</h3>
+<h1 align="center">👋 Hi Welcome to my Github </h1>
+<h3 align="center">🎯Data Engineer Junior 🌍</h3>
 
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-  💼 Em busca de oportunidades como Engenheiro de Dados <br>
-  📚 Atualmente estudando Python, SQL, Big Data, Spark, ETL, Power BI, Git, Docker, MongoDB, AWS, entre outros
+  📍 São Paulo, Brasil &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Engenheiro de Dados em formação &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 ADS - Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+## 📌 Sobre mim
+
+Sou apaixonado por tecnologia e dados, atualmente me especializando na construção de pipelines de dados, engenharia de software aplicada a Big Data, e soluções de análise para tomada de decisões. Busco oportunidades para aplicar meus conhecimentos em ambientes desafiadores e de alto impacto.
+
+- 💡 Interesse em arquitetura de dados, engenharia de dados e soluções em nuvem  
+- 💼 Buscando meu primeiro desafio profissional na área de **Data Engineering**  
+- 🛠️ Construindo projetos próprios para praticar e documentar minha evolução  
+- 📖 Em constante aprendizado: acredito que conhecimento só tem valor quando é compartilhado
+
+---
+
+## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="Python" />
@@ -28,25 +37,32 @@
 
 ---
 
-### 📚 Atualmente aprendendo
+## 📚 Em Aprendizado Contínuo
 
-- Processos ETL (Extração, Transformação e Carga)  
-- SQL avançado para análise e manipulação de dados  
-- Apache Spark para processamento distribuído de dados  
-- Apache Hadoop para armazenamento e processamento de grandes volumes  
-- Apache Airflow para orquestração de pipelines de dados  
-- Visualização de dados com Power BI  
-- Armazenamento em Data Lakes e Data Warehouses (S3, Redshift)  
-- Modelagem de dados e arquitetura de sistemas de dados  
-- Python para automações, tratamento de dados e integrações  
-- Banco de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB)  
-- Containers com Docker  
-- Versionamento com Git e GitHub  
-- Fundamentos de computação em nuvem com AWS  
+- 🔄 Processos ETL com Python, Pandas e Airflow  
+- 🔍 Consultas e modelagem com SQL avançado  
+- ⚙️ Orquestração de dados com Apache Airflow  
+- 🔥 Processamento em larga escala com Apache Spark  
+- 🛢️ Banco de dados relacionais e NoSQL  
+- 🐳 Containerização de ambientes com Docker  
+- ☁️ Armazenamento e deploy com AWS (S3, Redshift, Lambda)  
+- 📊 Visualização de dados com Power BI  
+- 🧠 Estruturação de projetos de dados do zero
 
 ---
 
-### 📈 Estatísticas GitHub
+## 🧩 Projetos em Andamento
+
+- `Data Lake com AWS S3 + Spark`: ingestão e processamento em larga escala  
+- `Pipeline de dados para E-commerce`: Airflow, PostgreSQL e visualização no Power BI  
+- `Dashboard Interativo`: análise de dados de consumo e visualização com Power BI  
+- `Scraper de dados públicos`: coleta automatizada com Python + pandas
+
+*Veja mais em meu repositório: [github.com/manntanfumu0](https://github.com/manntanfumu0)*
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manntanfumu0&show_icons=true&theme=radical"/>
@@ -55,15 +71,15 @@
 
 ---
 
-### 📫 Contato
+## 📬 Entre em Contato
 
 <p align="center">
-  📧 E-mail: manuelntanfumu0@gmail.com <br>
-  💼 <a href="https://www.linkedin.com/in/manuel-filipe-ntanfumu-384612292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a>
+  📧 E-mail: <strong>manuelntanfumu0@gmail.com</strong> <br>
+  💼 <a href="https://www.linkedin.com/in/manuel-filipe-ntanfumu-384612292" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
-### 💬 Frase que me inspira
+## 💬 Frase que me inspira
 
-> “Persistência transforma potencial em realidade.”
+> **“Persistência transforma potencial em realidade.”**
