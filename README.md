@@ -28,4 +28,42 @@
 
 ---
 
-### 📚 Atualm
+### 📚 Atualmente aprendendo
+
+- Processos ETL (Extração, Transformação e Carga)  
+- SQL avançado para análise e manipulação de dados  
+- Apache Spark para processamento distribuído de dados  
+- Apache Hadoop para armazenamento e processamento de grandes volumes  
+- Apache Airflow para orquestração de pipelines de dados  
+- Visualização de dados com Power BI  
+- Armazenamento em Data Lakes e Data Warehouses (S3, Redshift)  
+- Modelagem de dados e arquitetura de sistemas de dados  
+- Python para automações, tratamento de dados e integrações  
+- Banco de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB)  
+- Containers com Docker  
+- Versionamento com Git e GitHub  
+- Fundamentos de computação em nuvem com AWS  
+
+---
+
+### 📈 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manntanfumu0&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manntanfumu0&layout=compact&theme=radical"/>
+</div>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  📧 E-mail: manuelntanfumu0@gmail.com <br>
+  💼 <a href="https://www.linkedin.com/in/manuel-filipe-ntanfumu-384612292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a>
+</p>
+
+---
+
+### 💬 Frase que me inspira
+
+> “Persistência transforma potencial em realidade.”
