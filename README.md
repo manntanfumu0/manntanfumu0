@@ -51,16 +51,6 @@ Sou apaixonado por tecnologia e dados, atualmente me especializando na construç
 
 ---
 
-## 🧩 Projetos em Andamento
-
-- `Data Lake com AWS S3 + Spark`: ingestão e processamento em larga escala  
-- `Pipeline de dados para E-commerce`: Airflow, PostgreSQL e visualização no Power BI  
-- `Dashboard Interativo`: análise de dados de consumo e visualização com Power BI  
-- `Scraper de dados públicos`: coleta automatizada com Python + pandas
-
-*Veja mais em meu repositório: [github.com/manntanfumu0](https://github.com/manntanfumu0)*
-
----
 
 ## 📈 GitHub Stats
 
