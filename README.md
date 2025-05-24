@@ -4,7 +4,7 @@
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
   💼 Em busca de oportunidades como Engenheiro de Dados <br>
-  📚 Atualmente estudando Java, Python, SQL, Big Data, Spark, ETL, Git, Docker, MongoDB, AWS, entre outros
+  📚 Atualmente estudando Python, SQL, Big Data, Spark, ETL, Power BI, Git, Docker, MongoDB, AWS, entre outros
 </p>
 
 ---
@@ -12,16 +12,18 @@
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="70" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="70" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="70" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/96/microsoft-power-bi.png" height="70" alt="Power BI" />
+  <img src="https://img.icons8.com/color/96/apache-spark.png" height="70" alt="Apache Spark" />
+  <img src="https://img.icons8.com/color/96/apache-hadoop.png" height="70" alt="Apache Hadoop" />
+  <img src="https://img.icons8.com/color/96/airflow.png" height="70" alt="Apache Airflow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="70" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="70" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="70" alt="GitHub" />
   <img src="https://img.icons8.com/color/96/amazon-web-services.png" height="70" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="70" alt="Apache" />
 </p>
 
 ---
@@ -29,15 +31,18 @@
 ### 📚 Atualmente aprendendo
 
 - Processos ETL (Extração, Transformação e Carga)  
-- Banco de dados relacionais e NoSQL  
-- Apache Spark e Hadoop  
-- SQL avançado para análise de dados  
-- Armazenamento e tratamento de grandes volumes de dados (Big Data)  
-- Integrações com Python para pipelines de dados  
-- Computação em nuvem com AWS (S3, Glue, Redshift)  
-- Contêineres com Docker  
+- SQL avançado para análise e manipulação de dados  
+- Apache Spark para processamento distribuído de dados  
+- Apache Hadoop para armazenamento e processamento de grandes volumes  
+- Apache Airflow para orquestração de pipelines de dados  
+- Visualização de dados com Power BI  
+- Armazenamento em Data Lakes e Data Warehouses (S3, Redshift)  
+- Modelagem de dados e arquitetura de sistemas de dados  
+- Python para automações, tratamento de dados e integrações  
+- Banco de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB)  
+- Containers com Docker  
 - Versionamento com Git e GitHub  
-- Modelagem de dados e Data Warehousing  
+- Fundamentos de computação em nuvem com AWS  
 
 ---
 
