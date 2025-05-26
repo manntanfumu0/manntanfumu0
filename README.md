@@ -1,4 +1,4 @@
-<h1 align="center">👋 Seja bem-vindo ao meu GitHub!</h1>
+<h1 align="center">👋 Welcome to my GitHub!</h1>
 <h3 align="center">🎯 Data Engineer Junior 🌍</h3>
 
 <p align="center">
@@ -31,7 +31,7 @@ As linguagens base que estou focando para dominar Engenharia de Dados:
 
 ### 🛠️ Ferramentas Necessárias
 
-Ferramentas mais pedidas pelo mercado e que fazem parte do meu plano de estudo:
+Ferramentas que fazem parte do meu plano de estudo:
 
 - **Orquestração:** [Apache Airflow](https://airflow.apache.org/)
 - **Processamento de dados:** [Apache Spark (PySpark)](https://spark.apache.org/docs/latest/api/python/)
