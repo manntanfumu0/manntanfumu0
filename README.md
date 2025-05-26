@@ -18,15 +18,6 @@ Sou apaixonado por tecnologia e dados, atualmente me especializando na construç
 
 ---
 
-## 📊 Roadmap: Como me tornar Engenheiro de Dados
-
-### 📖 O que você precisa entender primeiro:
-
-- ✅ **O que é ETL/ELT** (Extração, Transformação e Carga)
-- ✅ Diferença entre **Data Warehouse**, **Data Lake** e **Banco de Dados**
-- ✅ Diferença entre **Bancos de Dados Relacionais (SQL)** e **NoSQL (MongoDB, Redis)**
-
----
 
 ### 💻 Linguagens Essenciais
 
