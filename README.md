@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi Welcome to my Github </h1>
-<h3 align="center">🎯Data Engineer Junior 🌍</h3>
+<h1 align="center">👋 Seja bem-vindo ao meu GitHub!</h1>
+<h3 align="center">🎯 Data Engineer Junior 🌍</h3>
 
 <p align="center">
   📍 São Paulo, Brasil &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Engenheiro de Dados em formação &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 ADS - Análise e Desenvolvimento de Sistemas
@@ -9,7 +9,7 @@
 
 ## 📌 Sobre mim
 
-Sou apaixonado por tecnologia e dados, atualmente me especializando na construção de pipelines de dados, engenharia de software aplicada a Big Data, e soluções de análise para tomada de decisões. Busco oportunidades para aplicar meus conhecimentos em ambientes desafiadores e de alto impacto.
+Sou apaixonado por tecnologia e dados, atualmente me especializando na construção de pipelines, engenharia de software aplicada a Big Data e soluções de análise para tomada de decisões. Busco oportunidades para aplicar meus conhecimentos em ambientes desafiadores e de alto impacto.
 
 - 💡 Interesse em arquitetura de dados, engenharia de dados e soluções em nuvem  
 - 💼 Buscando meu primeiro desafio profissional na área de **Data Engineering**  
@@ -18,7 +18,40 @@ Sou apaixonado por tecnologia e dados, atualmente me especializando na construç
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 📊 Roadmap: Como me tornar Engenheiro de Dados
+
+### 📖 O que você precisa entender primeiro:
+
+- ✅ **O que é ETL/ELT** (Extração, Transformação e Carga)
+- ✅ Diferença entre **Data Warehouse**, **Data Lake** e **Banco de Dados**
+- ✅ Diferença entre **Bancos de Dados Relacionais (SQL)** e **NoSQL (MongoDB, Redis)**
+
+---
+
+### 💻 Linguagens Essenciais
+
+As linguagens base que estou focando para dominar Engenharia de Dados:
+
+- 📌 **SQL** → Consultas e manipulação de dados
+- 📌 **Python** → Criação de ETLs, automação de pipelines e processamento de dados
+- 📌 **Shell Script** → Automação de tarefas em servidores
+
+---
+
+### 🛠️ Ferramentas Necessárias
+
+Ferramentas mais pedidas pelo mercado e que fazem parte do meu plano de estudo:
+
+- **Orquestração:** [Apache Airflow](https://airflow.apache.org/)
+- **Processamento de dados:** [Apache Spark (PySpark)](https://spark.apache.org/docs/latest/api/python/)
+- **Armazenamento:** [Google BigQuery](https://cloud.google.com/bigquery), [AWS S3](https://aws.amazon.com/s3/)  
+*(Recomendo começar com uma delas)*
+- **Banco de Dados:** [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/)
+- **Streaming de dados em tempo real:** [Apache Kafka](https://kafka.apache.org/)
+
+---
+
+## 🚀 Tecnologias e Ferramentas que já utilizo
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="Python" />
@@ -41,13 +74,12 @@ Sou apaixonado por tecnologia e dados, atualmente me especializando na construç
 - ⚙️ Orquestração de dados com Apache Airflow  
 - 🔥 Processamento em larga escala com Apache Spark  
 - 🛢️ Banco de dados relacionais e NoSQL  
-- 🐳 Containerização de ambientes com Docker  
+- 🐳 Containerização com Docker  
 - ☁️ Armazenamento e deploy com AWS (S3, Redshift, Lambda)  
 - 📊 Visualização de dados com Power BI  
 - 🧠 Estruturação de projetos de dados do zero
 
 ---
-
 
 ## 📈 GitHub Stats
 
@@ -70,3 +102,9 @@ Sou apaixonado por tecnologia e dados, atualmente me especializando na construç
 ## 💬 Frase que me inspira
 
 > **“Persistência transforma potencial em realidade.”**
+
+---
+
+## ⭐ Obrigado por visitar meu perfil!
+
+Se curtir, deixa uma ⭐ ou conecta comigo no LinkedIn!
