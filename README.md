@@ -1,31 +1,30 @@
 <h1 align="center">👋 Welcome to my GitHub!</h1>
-<h3 align="center">🎯 Data Engineer Junior 🌍</h3>
+<h3 align="center">🎯 Data Scientist & Analytics Enthusiast 🌍</h3>
 
 <p align="center">
-  📍 São Paulo, Brasil &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Engenheiro de Dados em formação &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 ADS - Análise e Desenvolvimento de Sistemas
+  📍 São Paulo, Brasil &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Cientista de Dados em formação &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 ADS - Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
 
 ## 📌 Sobre mim
 
-Sou apaixonado por tecnologia e dados, atualmente me especializando na construção de pipelines, engenharia de software aplicada a Big Data e soluções de análise para tomada de decisões. Busco oportunidades para aplicar meus conhecimentos em ambientes desafiadores e de alto impacto.
+Sou apaixonado por tecnologia, dados e insights estratégicos. Atualmente estou me especializando em Data Science & Analytics, combinando estatística, machine learning e visualização de dados para resolver problemas reais e apoiar a tomada de decisões baseada em dados. Busco oportunidades para aplicar meus conhecimentos em ambientes desafiadores e que valorizem a cultura data-driven.
 
-- 💡 Interesse em arquitetura de dados, engenharia de dados e soluções em nuvem  
-- 💼 Buscando meu primeiro desafio profissional na área de **Data Engineering**  
-- 🛠️ Construindo projetos próprios para praticar e documentar minha evolução  
+- 💡 Interesse em ciência de dados, análise preditiva e business analytics  
+- 💼 Buscando meu primeiro desafio profissional na área de **Data Science & Analytics**  
+- 🛠️ Construindo projetos próprios para praticar, compartilhar e documentar minha evolução  
 - 📖 Em constante aprendizado: acredito que conhecimento só tem valor quando é compartilhado
 
 ---
 
-
 ### 💻 Linguagens Essenciais
 
-As linguagens base que estou focando para dominar Engenharia de Dados:
+As linguagens base que estou focando para dominar Data Science & Analytics:
 
-- 📌 **SQL** → Consultas e manipulação de dados
-- 📌 **Python** → Criação de ETLs, automação de pipelines e processamento de dados
-- 📌 **Shell Script** → Automação de tarefas em servidores
+- 📌 **Python** → Análise de dados, machine learning, automação e visualização
+- 📌 **SQL** → Consultas, modelagem e manipulação de dados
+- 📌 **R** → Estatística e visualização de dados (em aprendizado)
 
 ---
 
@@ -33,12 +32,10 @@ As linguagens base que estou focando para dominar Engenharia de Dados:
 
 Ferramentas que fazem parte do meu plano de estudo:
 
-- **Orquestração:** [Apache Airflow](https://airflow.apache.org/)
-- **Processamento de dados:** [Apache Spark (PySpark)](https://spark.apache.org/docs/latest/api/python/)
-- **Armazenamento:** [Google BigQuery](https://cloud.google.com/bigquery), [AWS S3](https://aws.amazon.com/s3/)  
-*(Recomendo começar com uma delas)*
+- **Análise e Visualização:** [Power BI](https://powerbi.microsoft.com/), [Tableau](https://www.tableau.com/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
+- **Processamento e Machine Learning:** [Pandas](https://pandas.pydata.org/), [Scikit-Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
 - **Banco de Dados:** [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/)
-- **Streaming de dados em tempo real:** [Apache Kafka](https://kafka.apache.org/)
+- **Ambientes de Desenvolvimento:** [Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/), [VS Code](https://code.visualstudio.com/)
 
 ---
 
@@ -50,25 +47,23 @@ Ferramentas que fazem parte do meu plano de estudo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="60" alt="Apache Spark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" height="60" alt="Apache Hadoop" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="60" alt="Apache Airflow" />
-  <img src="https://img.icons8.com/color/96/000000/power-bi.png" height="60" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tableau_Logo.png" height="60" alt="Tableau" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Power_BI_Logo.svg" height="60" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter Notebook" />
 </p>
 
 ---
 
 ## 📚 Em Aprendizado Contínuo
 
-- 🔄 Processos ETL com Python, Pandas e Airflow  
-- 🔍 Consultas e modelagem com SQL avançado  
-- ⚙️ Orquestração de dados com Apache Airflow  
-- 🔥 Processamento em larga escala com Apache Spark  
-- 🛢️ Banco de dados relacionais e NoSQL  
-- 🐳 Containerização com Docker  
-- ☁️ Armazenamento e deploy com AWS (S3, Redshift, Lambda)  
-- 📊 Visualização de dados com Power BI  
-- 🧠 Estruturação de projetos de dados do zero
+- 📊 Análise exploratória de dados com Python, Pandas e Seaborn  
+- 📈 Machine Learning supervisionado e não supervisionado com Scikit-Learn  
+- ⚙️ Criação de dashboards interativos com Power BI e Tableau  
+- 🛢️ Consultas SQL para extração e análise de dados  
+- ☁️ Integração de dados com APIs e armazenamento em AWS  
+- 📉 Modelagem estatística aplicada a negócios  
+- 🧠 Construção de pipelines de dados e notebooks interativos
 
 ---
 
@@ -97,5 +92,3 @@ Ferramentas que fazem parte do meu plano de estudo:
 ---
 
 ## ⭐ Obrigado por visitar meu perfil!
-
-Se curtir, deixa uma ⭐ ou conecta comigo no LinkedIn!
