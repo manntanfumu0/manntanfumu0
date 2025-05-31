@@ -47,8 +47,8 @@ Ferramentas que fazem parte do meu plano de estudo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tableau_Logo.png" height="60" alt="Tableau" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Power_BI_Logo.svg" height="60" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="60" alt="Tableau" />
+  <img src="https://img.icons8.com/color/96/000000/power-bi.png" height="60" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter Notebook" />
 </p>
