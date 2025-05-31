@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome to my GitHub!</h1>
-<h3 align="center">🎯 Data Scientist & Analytics Enthusiast 🌍</h3>
+<h3 align="center">🎯 Data Scientist & Analytics  🌍</h3>
 
 <p align="center">
   📍 São Paulo, Brasil &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Cientista de Dados em formação &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 ADS - Análise e Desenvolvimento de Sistemas
