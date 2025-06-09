@@ -2,7 +2,7 @@
 <h3 align="center">🎯 Data Scientist & Analytics  🌍</h3>
 
 <p align="center">
-  📍 São Paulo, Brasil &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Cientista de Dados em formação &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 ADS - Análise e Desenvolvimento de Sistemas
+  📍 São Paulo, Brasil &nbsp;&nbsp;|&nbsp;&nbsp;| 🎓 ADS - Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
