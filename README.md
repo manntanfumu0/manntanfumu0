@@ -34,7 +34,7 @@ Ferramentas que fazem parte do meu plano de estudo:
 
 - **Análise e Visualização:** [Power BI](https://powerbi.microsoft.com/), [Tableau](https://www.tableau.com/)
 - **Processamento e Machine Learning:** [Pandas](https://pandas.pydata.org/), [Scikit-Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
-- **Banco de Dados:[MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/)
+- **Banco de Dados:[MySQL](https://www.mysql.com/)
 
 ---
 
