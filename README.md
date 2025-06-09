@@ -32,10 +32,9 @@ As linguagens base que estou focando para dominar Data Science & Analytics:
 
 Ferramentas que fazem parte do meu plano de estudo:
 
-- **Análise e Visualização:** [Power BI](https://powerbi.microsoft.com/), [Tableau](https://www.tableau.com/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
+- **Análise e Visualização:** [Power BI](https://powerbi.microsoft.com/), [Tableau](https://www.tableau.com/)
 - **Processamento e Machine Learning:** [Pandas](https://pandas.pydata.org/), [Scikit-Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
-- **Banco de Dados:** [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/)
-- **Ambientes de Desenvolvimento:** [Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/), [VS Code](https://code.visualstudio.com/)
+- **Banco de Dados:[MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/)
 
 ---
 
