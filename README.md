@@ -9,7 +9,7 @@
 
 ## 📌 Sobre mim
 
-Sou apaixonado por tecnologia, dados e insights estratégicos. Atualmente estou me especializando em Data Science & Analytics, combinando estatística, machine learning e visualização de dados para resolver problemas reais e apoiar a tomada de decisões baseada em dados. Busco oportunidades para aplicar meus conhecimentos em ambientes desafiadores e que valorizem a cultura data-driven.
+Atualmente estou me especializando em Data Science & Analytics, combinando estatística, machine learning e visualização de dados para resolver problemas reais e apoiar a tomada de decisões baseada em dados. Busco oportunidades para aplicar meus conhecimentos em ambientes desafiadores e que valorizem a cultura data-driven.
 
 - 💡 Interesse em ciência de dados, análise preditiva e business analytics  
 - 💼 Buscando meu primeiro desafio profissional na área de **Data Science & Analytics**  
@@ -50,7 +50,7 @@ Ferramentas que fazem parte do meu plano de estudo:
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="60" alt="Tableau" />
   <img src="https://img.icons8.com/color/96/000000/power-bi.png" height="60" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter Notebook" />
+  
 </p>
 
 ---
@@ -58,12 +58,11 @@ Ferramentas que fazem parte do meu plano de estudo:
 ## 📚 Em Aprendizado Contínuo
 
 - 📊 Análise exploratória de dados com Python, Pandas e Seaborn  
-- 📈 Machine Learning supervisionado e não supervisionado com Scikit-Learn  
 - ⚙️ Criação de dashboards interativos com Power BI e Tableau  
 - 🛢️ Consultas SQL para extração e análise de dados  
 - ☁️ Integração de dados com APIs e armazenamento em AWS  
 - 📉 Modelagem estatística aplicada a negócios  
-- 🧠 Construção de pipelines de dados e notebooks interativos
+
 
 ---
 
