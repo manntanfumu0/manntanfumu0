@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome to my GitHub!</h1>
-<h3 align="center">🎯 Data Scientist & Analytics  🌍</h3>
+<h3 align="center">🎯  Data Engineer
 
 <p align="center">
   📍 São Paulo, Brasil &nbsp;&nbsp;|&nbsp;&nbsp;🎓 ADS - Análise e Desenvolvimento de Sistemas
@@ -9,32 +9,36 @@
 
 ## 📌 Sobre mim
 
-Atualmente estou me especializando em Data Science & Analytics, combinando estatística, machine learning e visualização de dados para resolver problemas reais e apoiar a tomada de decisões baseada em dados. Busco oportunidades para aplicar meus conhecimentos em ambientes desafiadores e que valorizem a cultura data-driven.
+Sou estudante de Análise e Desenvolvimento de Sistemas com grande interesse em **Engenharia de Dados**. Estou iniciando minha jornada nessa área, aprendendo a construir pipelines de dados, estruturar bases e trabalhar com grandes volumes de informação.
 
-- 💡 Interesse em ciência de dados, análise preditiva e business analytics  
-- 💼 Buscando meu primeiro desafio profissional na área de **Data Science & Analytics**  
-- 🛠️ Construindo projetos próprios para praticar, compartilhar e documentar minha evolução  
-- 📖 Em constante aprendizado: acredito que conhecimento só tem valor quando é compartilhado
+Busco minha primeira oportunidade profissional para aplicar os conhecimentos que venho adquirindo e contribuir com soluções baseadas em dados em ambientes que valorizem uma cultura **data-driven**.
+
+- 🚀 Iniciando na área de **Engenharia de Dados**
+- 💼 Em busca do meu primeiro desafio profissional com dados
+- 📦 Construindo projetos para praticar e documentar minha evolução
+- 📚 Acredito que aprender e compartilhar andam juntos
 
 ---
 
 ### 💻 Linguagens Essenciais
 
-As linguagens base que estou focando para dominar Data Science & Analytics:
+As linguagens que estou aprendendo e utilizando no contexto de Engenharia de Dados:
 
-- 📌 **Python** → Análise de dados, machine learning, automação e visualização
-- 📌 **SQL** → Consultas, modelagem e manipulação de dados
-- 📌 **R** → Estatística e visualização de dados (em aprendizado)
+- 📌 **Python** → Automatização, extração de dados e ETL  
+- 📌 **SQL** → Consultas, modelagem e manipulação de dados estruturados  
+ 
 
 ---
 
 ### 🛠️ Ferramentas Necessárias
 
-Ferramentas que fazem parte do meu plano de estudo:
+Ferramentas que estou explorando no meu plano de estudo:
 
-- **Análise e Visualização:** [Power BI](https://powerbi.microsoft.com/), [Tableau](https://www.tableau.com/)
-- **Processamento e Machine Learning:** [Pandas](https://pandas.pydata.org/), [Scikit-Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
-- **Banco de Dados:[MySQL](https://www.mysql.com/)
+- **Bancos de Dados:** [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/)
+- **ETL e Processamento:** [Apache Airflow](https://airflow.apache.org/) (em aprendizado), [Pandas](https://pandas.pydata.org/)
+- **Cloud e Armazenamento:** [AWS S3](https://aws.amazon.com/s3/) (iniciante)
+- **Visualização:** [Power BI](https://powerbi.microsoft.com/), [Tableau](https://www.tableau.com/)
+- **Versionamento:** Git e GitHub  
 
 ---
 
@@ -47,20 +51,17 @@ Ferramentas que fazem parte do meu plano de estudo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="60" alt="Tableau" />
   <img src="https://img.icons8.com/color/96/000000/power-bi.png" height="60" alt="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="R" />
-  
 </p>
 
 ---
 
 ## 📚 Em Aprendizado Contínuo
 
-- 📊 Análise exploratória de dados com Python, Pandas e Seaborn  
-- ⚙️ Criação de dashboards interativos com Power BI e Tableau  
-- 🛢️ Consultas SQL para extração e análise de dados  
-- ☁️ Integração de dados com APIs e armazenamento em AWS  
-- 📉 Modelagem estatística aplicada a negócios  
-
+- 🧱 Fundamentos da Engenharia de Dados  
+- 🔄 Processos de ETL com Python e SQL  
+- 📊 Visualização de dados com Power BI e Tableau  
+- ☁️ Armazenamento e manipulação de dados na nuvem (AWS)  
+- 🔗 Versionamento e colaboração com Git/GitHub  
 
 ---
 
