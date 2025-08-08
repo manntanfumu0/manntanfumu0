@@ -1,6 +1,6 @@
 ## Hello, 👋🏾👨🏿‍💻.
 
-My name is Manuel. I am a data analyst with experience in SQL, Excel, R, Power BI, Tableau, AWS, and Python. Every day, I create amazing experiences and engage with a vibrant data community.
+My name is Manuel. I am a Data Engineer with experience in SQL, Excel, R, ETL, Power BI, Tableau, AWS, and Python. Every day, I create amazing experiences and engage with a vibrant data community.
 
 🔭 Currently, I am studying to develop my data analysis skills in R, SQL, Excel, Power BI, Tableau, and Python.
 
@@ -21,6 +21,7 @@ My name is Manuel. I am a data analyst with experience in SQL, Excel, R, Power B
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="60" alt="Tableau" />
   <img src="https://img.icons8.com/color/96/000000/power-bi.png" height="60" alt="Power BI" />
+  <img src="https://img.icons8.com/color/96/000000/etl.png" height="60" alt="ETL" />
 </p>
 
 
