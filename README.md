@@ -6,10 +6,9 @@ Meu nome é Manuel. Sou analista de dados com experiência em SQL, Excel, R, Pow
 * 🌱 Atualmente estou aprendendo tudo.
 * 💬 Pergunte-me sobre tudo, dados, livros e filmes de blaxploitation.
 
-<p align="center">
-  📧 E-mail: <strong>manuelntanfumu0@gmail.com</strong> <br>
-👩🏾‍💻 Conecte-se comigo no LinkedIn:  💼 <a href="https://www.linkedin.com/in/manuel-filipe-ntanfumu-384612292" target="_blank">LinkedIn</a>
-</p>
+
+  * 📧 E-mail: <strong>manuelntanfumu0@gmail.com</strong> <br>
+* 👩🏾‍💻 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/manuel-filipe-ntanfumu-384612292
  
 
 ## 🚀 Tecnologias e Ferramentas 
