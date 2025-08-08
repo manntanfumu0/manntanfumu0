@@ -1,9 +1,10 @@
-Olá, 👋🏾👩🏾‍💻.
+## Olá, 👋🏾👩🏾‍💻.
+
 Meu nome é Manuel. Sou analista de dados com experiência em SQL, Excel, R, PowerBi, Tableau e Python. Todos os dias, crio experiências incríveis e me engajo com uma vibrante comunidade de dados.
 
-🔭 Atualmente, estou estudando para desenvolver minhas habilidades de análise de dados em R, SQL, Excel, PowerBi, Tableau e Python.
-🌱 Atualmente estou aprendendo tudo.
-💬 Pergunte-me sobre tudo, dados, livros e filmes de blaxploitation.
+* 🔭 Atualmente, estou estudando para desenvolver minhas habilidades de análise de dados em R, SQL, Excel, PowerBi, Tableau e Python.
+* 🌱 Atualmente estou aprendendo tudo.
+* 💬 Pergunte-me sobre tudo, dados, livros e filmes de blaxploitation.
 
 <p align="center">
   📧 E-mail: <strong>manuelntanfumu0@gmail.com</strong> <br>
