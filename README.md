@@ -21,7 +21,7 @@ My name is Manuel. I am a Data Engineer with experience in SQL, Excel, R, ETL, P
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="60" alt="Tableau" />
   <img src="https://img.icons8.com/color/96/000000/power-bi.png" height="60" alt="Power BI" />
-  <img src="https://img.icons8.com/color/96/000000/etl.png" height="60" alt="ETL" />
+  <img src="https://img.icons8.com/color/48/000000/data-in-both-directions.png" height="60" alt="ETL" />
 </p>
 
 
