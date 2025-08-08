@@ -1,17 +1,17 @@
-## Olá, 👋🏾👩🏾‍💻.
+Hello, 👋🏾👨🏿‍💻.
+My name is Manuel. I am a data analyst with experience in SQL, Excel, R, Power BI, Tableau, AWS, and Python. Every day, I create amazing experiences and engage with a vibrant data community.
 
-Meu nome é Manuel. Sou analista de dados com experiência em SQL, Excel, R, PowerBi, Tableau e Python. Todos os dias, crio experiências incríveis e me engajo com uma vibrante comunidade de dados.
+🔭 Currently, I am studying to develop my data analysis skills in R, SQL, Excel, Power BI, Tableau, and Python.
 
-* 🔭 Atualmente, estou estudando para desenvolver minhas habilidades de análise de dados em R, SQL, Excel, PowerBi, Tableau e Python.
-* 🌱 Atualmente estou aprendendo tudo.
-* 💬 Pergunte-me sobre tudo, dados, livros e filmes de blaxploitation.
+🌱 I am currently learning everything.
 
+💬 Ask me about anything—data, books, and blaxploitation films.
 
-  * 📧 E-mail: <strong>manuelntanfumu0@gmail.com</strong> <br>
-* 👩🏾‍💻 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/manuel-filipe-ntanfumu-384612292
- 
+📧 Email: manuelntanfumu0@gmail.com
 
-## 🚀 Linguagens e Ferramentas em estudo
+👩🏾‍💻 Connect with me on LinkedIn: https://www.linkedin.com/in/manuel-filipe-ntanfumu-384612292
+
+🚀 Languages and Tools I’m Studying
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="Python" />
