@@ -1,4 +1,5 @@
-Hello, 👋🏾👨🏿‍💻.
+##Hello, 👋🏾👨🏿‍💻.
+
 My name is Manuel. I am a data analyst with experience in SQL, Excel, R, Power BI, Tableau, AWS, and Python. Every day, I create amazing experiences and engage with a vibrant data community.
 
 🔭 Currently, I am studying to develop my data analysis skills in R, SQL, Excel, Power BI, Tableau, and Python.
