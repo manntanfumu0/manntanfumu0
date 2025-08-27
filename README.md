@@ -1,28 +1,17 @@
-## Hello, 👋🏾👨🏿‍💻.
+## Hello, 👋🏾👨🏿‍💻
 
-My name is Manuel. I am a Data Engineer with experience in SQL, Excel, R, ETL, Power BI, Tableau, AWS, and Python. Every day, I create amazing experiences and engage with a vibrant data community.
+My name is Manuel. I am a Back-End Developer in training, currently learning and building my skills in Java, Spring Boot, Node.js, SQL, and cloud platforms. I am passionate about creating efficient systems and exploring how back-end technologies power real-world applications.
 
-🔭 Currently, I am studying to develop my data analysis skills in R, SQL, Excel, Power BI, Tableau, and Python.
+🔭 Right now, I’m focused on studying back-end development with Java, Spring Boot, SQL databases, Docker, and AWS.
 
-🌱 I am currently learning everything.
+🌱 I am in the process of learning everything step by step.
 
-💬 Ask me about anything—data, books, and blaxploitation films.
+💬 I’m always open to conversations about technology, books, and how to grow as a developer.
 
 📧 Email: manuelntanfumu0@gmail.com
 
-👩🏾‍💻 Connect with me on LinkedIn: https://www.linkedin.com/in/manuel-filipe-ntanfumu-384612292
+👩🏾‍💻 Connect with me on LinkedIn: Manuel Filipe Ntanfumu
 
 🚀 Languages and Tools I’m Studying
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="60" alt="Tableau" />
-  <img src="https://img.icons8.com/color/96/000000/power-bi.png" height="60" alt="Power BI" />
-  <img src="https://img.icons8.com/color/48/000000/data-in-both-directions.png" height="60" alt="ETL" />
-</p>
-
-
-
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="Spring Boot" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" /> </p>
