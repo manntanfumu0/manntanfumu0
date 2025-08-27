@@ -1,4 +1,4 @@
-Hello, 👋🏾👨🏿‍💻
+## Hello, 👋🏾👨🏿‍💻
 
 My name is Manuel. I am a Data Engineer in training, currently learning and building my skills in Python, SQL, ETL processes, data pipelines, and cloud platforms. I am passionate about organizing and transforming data into actionable insights to help real-world decision-making.
 
