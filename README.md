@@ -35,6 +35,10 @@ I share what I learn through hands-on practice, challenging readings, and projec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="60" alt="Apache" />
+
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" height="60" alt="dbt" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/airflow-icon.svg" height="60" alt="Airflow" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake-icon.svg" height="60" alt="Snowflake" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" alt="Pandas" />
 </p>
