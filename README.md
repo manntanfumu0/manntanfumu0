@@ -1,29 +1,35 @@
 ## Hello! 👋🏾👨🏿‍💻
 
-I am a data professional focused on Analytics Engineering, working on building data pipelines and data models for analytical environments.
+I am a Data Engineer focused on building data pipelines, data models, and analytical data platforms.  
+My work focuses on transforming raw data into reliable and well-structured datasets ready to be used by Business Intelligence, Analytics, and data-driven teams.
 
-My work focuses on transforming raw data into reliable models that are ready to be used by business, analytics, and BI teams.
+I have hands-on experience with data projects involving:
 
-Hands-on experience in:
-
-• Building ETL / ELT pipelines
-• Dimensional modeling (Star Schema)
-• Data transformation using SQL and Python
-• Organizing Data Warehouses in layers (Raw, Staging, Mart)
-• Data versioning and data quality
+• Building ETL / ELT pipelines  
+• Dimensional modeling (Star Schema)  
+• Data transformation using SQL and Python  
+• Layered Data Warehouse architecture (Raw, Staging, Mart)  
+• Data versioning and data quality practices  
+• Git workflow for data projects  
 
 Technical stack
 
-SQL • Python • dbt • Data Modeling • ETL / ELT • Git • Cloud
+SQL • Python • dbt • Data Modeling • ETL / ELT • Git • Cloud • Data Warehousing
 
 Professional goal
 
-I am interested in working as an Analytics Engineer, contributing to the development of scalable, reliable, and data-driven analytical layers. As a natural career progression, I also aim to grow into a Data Engineer, deepening my knowledge in data architecture, distributed pipelines, and cloud-based data engineering.
+I am interested in working as a Data Engineer, contributing to the development of scalable, reliable, and well-designed data platforms.
 
-I share what I learn through hands-on practice, challenging readings, and projects I build in my day-to-day work.
+My goal is to deepen my knowledge in:
 
-📧 Email: manuelntanfumu0@gmail.com
+• Data Architecture  
+• Distributed Data Pipelines  
+• Cloud Data Engineering  
+• Modern Data Stack (dbt, Airflow, Snowflake, AWS)
 
+I share what I learn through hands-on projects, technical studies, and real-world data engineering practice.
+
+📧 Email: manuelntanfumu0@gmail.com  
 💻 GitHub: https://github.com/manntanfumu0
 
 🚀 Languages and Tools I’m Studying
