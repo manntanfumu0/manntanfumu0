@@ -15,7 +15,20 @@ End-to-end data analysis project simulating a real financial scenario. Data extr
 
 Stack: PostgreSQL • Python (Pandas) • Power BI • Data Modeling • Git
 
-📂 View project →
+📂 View project → https://github.com/manntanfumu0/credit-card-analysis.git
+
+__________________________________________________________________________________________________________________________________________________
+
+📈 SELIC Data Pipeline — Data Engineering Project
+
+How can we transform raw financial data into reliable analytical datasets? How do we structure a clean and scalable ETL pipeline?
+
+End-to-end ETL pipeline built in Python for extracting, transforming, and organizing Brazil’s SELIC interest rate data from a public source. Structured data flow following raw → processed layers, applying data engineering best practices for analytical readiness.
+
+Stack: Python • Pandas • Requests • ETL • Data Pipeline • Git
+
+📂 View project → https://github.com/manntanfumu0/etl-selic.git
+
 ___________________________________________________________________________________________________________________________________________________
 
 Tech Stack
@@ -25,6 +38,7 @@ Orchestration         →  Airflow
 Cloud                 →  Google BigQuery · AWS (S3, Redshift basics)
 Version Control       →  Git · GitHub · GitHub Actions
 Modeling              →  Star Schema · Snowflake Schema · OBT
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" title="PostgreSQL"/>
