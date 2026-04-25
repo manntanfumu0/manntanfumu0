@@ -56,10 +56,12 @@ ________________________________________________________________________________
 
 ## Currently learning
 
-
  dbt Advanced — Jinja, macros, packages
+ 
  Airflow — DAG scheduling and monitoring
+ 
  BigQuery — partitioning, clustering, cost optimization
+ 
  English — technical fluency for global teams
 _____________________________________________________________________________________________________________________________________________________
 
