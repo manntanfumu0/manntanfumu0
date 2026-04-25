@@ -5,7 +5,7 @@ I'm actively seeking my first role as a Data Analyst Jr or Analytics Engineer Jr
 Mid-term goal: evolve into Data Engineering, deepening expertise in pipeline architecture and data platform scalability.
 ___________________________________________________________________________________________________________________________________________________
 
-Projects
+## Projects
 
 📊 Credit Approval Analytics — Data Analyst Project
 
@@ -31,7 +31,9 @@ Stack: Python • Pandas • Requests • ETL • Data Pipeline • Git
 
 ___________________________________________________________________________________________________________________________________________________
 
-Tech Stack
+## Tech Stack
+
+
 Data Transformation   →  dbt · SQL (PostgreSQL, BigQuery) · Python (Pandas)
 Data Visualization    →  Power BI · Tableau · Matplotlib
 Orchestration         →  Airflow
@@ -52,7 +54,8 @@ Modeling              →  Star Schema · Snowflake Schema · OBT
 
 _____________________________________________________________________________________________________________________________________________________
 
-Currently learning
+## Currently learning
+
 
  dbt Advanced — Jinja, macros, packages
  Airflow — DAG scheduling and monitoring
