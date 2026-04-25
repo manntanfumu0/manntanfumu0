@@ -65,5 +65,6 @@ ________________________________________________________________________________
 
  <div align="center">
 Open to opportunities · Remote or São Paulo, BR
+  
 manuelntanfumu0@gmail.com
 </div>
