@@ -1,7 +1,3 @@
-Manuel Ntanfumu
-
-Software Engineer Jr (Java Backend) & Data Engineer Jr — building reliable systems from the code that generates data to the pipelines that deliver it.
-
 <div align="center">
 
 ![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-Remote_or_São_Paulo_BR-4CAF50?style=flat&logoColor=white)
