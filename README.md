@@ -1,93 +1,57 @@
-<div align="center">
+![Available](https://img.shields.io/badge/Available-Remote_·_São_Paulo_BR-4a9e5c?style=flat-square&labelColor=f0f7ee)
 
-![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-Remote_or_São_Paulo_BR-4CAF50?style=flat&logoColor=white)
+# Manuel Ntanfumu
 
-</div>
+**Software Engineer Jr (Java) · Data Engineer Jr**
 
-## Manuel Ntanfumu
-
-**Software Engineer Jr (Java Backend) & Data Engineer Jr** — building reliable systems from the code that generates data to the pipelines that deliver it.
-
-I work at the intersection of backend engineering and data — two disciplines that, in practice, deeply inform each other. I learned early that bad data starts in the code. That end-to-end perspective shapes how I approach both sides of my work.
-
-![Java](https://img.shields.io/badge/Java-Backend-185FA5?style=flat)
-![Data Engineering](https://img.shields.io/badge/Data-Engineering-1D9E75?style=flat)
-![Python](https://img.shields.io/badge/-Python-grey?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-grey?style=flat)
-![dbt](https://img.shields.io/badge/-dbt-grey?style=flat)
-![Airflow](https://img.shields.io/badge/-Airflow-grey?style=flat)
-![BigQuery](https://img.shields.io/badge/-BigQuery-grey?style=flat)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-grey?style=flat)
-
-> Open to opportunities as **Software Engineer Jr (Java)** or **Data Engineer Jr**
+I build reliable systems — from the APIs that generate data to the pipelines that deliver it. My background spans Java backend development and data engineering, and I approach both with the same attention to quality, clarity, and real business impact.
 
 ---
 
 ## Projects
 
-### 📊 Credit Approval Analytics — Data Engineering Project
+**Credit Approval Analytics** &nbsp;·&nbsp; *Data Engineering · Finance*
 
-> What drives credit approval decisions? Which profiles present higher risk? Where are opportunities to optimize approvals?
+End-to-end analysis of credit approval decisions in a simulated financial scenario. SQL and Python for extraction and transformation, analytical modeling, and a Power BI dashboard with credit risk KPIs.
 
-End-to-end data analysis project simulating a real financial scenario. Data extraction and transformation with SQL and Python → analytical modeling → interactive Power BI dashboard with key credit risk KPIs.
+`PostgreSQL` `Python` `Pandas` `Power BI` `Data Modeling`
 
-**Stack:** `PostgreSQL` `Python (Pandas)` `Power BI` `Data Modeling` `Git`
-
-📂 [View project](https://github.com/manntanfumu0/credit-card-analysis)
+→ [View project](https://github.com/manntanfumu0/credit-card-analysis)
 
 ---
 
-### 📈 SELIC Data Pipeline — Data Engineering Project
+**SELIC Data Pipeline** &nbsp;·&nbsp; *Data Engineering · Macroeconomics*
 
-> How can we transform raw financial data into reliable analytical datasets? How do we structure a clean and scalable ETL pipeline?
+ETL pipeline in Python that extracts, transforms, and organizes Brazil's SELIC interest rate data from a public API. Structured as raw → processed layers following data engineering best practices for analytical readiness.
 
-End-to-end ETL pipeline built in Python for extracting, transforming, and organizing Brazil's SELIC interest rate data from a public source. Structured data flow following raw → processed layers, applying data engineering best practices for analytical readiness.
+`Python` `Pandas` `Requests` `ETL` `Pipeline design`
 
-**Stack:** `Python` `Pandas` `Requests` `ETL` `Data Pipeline` `Git`
-
-📂 [View project](https://github.com/manntanfumu0/etl-selic)
+→ [View project](https://github.com/manntanfumu0/etl-selic)
 
 ---
 
-## Tech Stack
+## Stack
 
 | Area | Tools |
-|------|-------|
-| **Backend** | Java · Spring Boot · REST APIs · Git |
-| **Data Transformation** | dbt · SQL (PostgreSQL, BigQuery) · Python (Pandas) |
-| **Visualization** | Power BI · Tableau · Matplotlib |
-| **Orchestration** | Airflow |
-| **Cloud** | Google BigQuery · AWS (S3, Redshift basics) |
-| **Modeling** | Star Schema · Snowflake Schema · OBT |
-| **Version Control** | Git · GitHub · GitHub Actions |
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="Java" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50" alt="Spring Boot" title="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" title="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" height="50" alt="dbt" title="dbt"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/airflow-icon.svg" height="50" alt="Airflow" title="Airflow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="50" alt="Pandas" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50" alt="Git" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker" title="Docker"/>
-
-</div>
+|---|---|
+| Backend | Java · Spring Boot · REST APIs |
+| Data | Python · SQL · dbt · Airflow · BigQuery |
+| Visualization | Power BI · Tableau |
+| Cloud | BigQuery · AWS S3 |
+| Modeling | Star Schema · Snowflake Schema · OBT |
+| Tooling | Git · GitHub · GitHub Actions · Docker |
 
 ---
 
 ## Currently learning
 
-- **dbt Advanced** → Jinja, macros, packages
-- **Airflow** → DAG scheduling and monitoring
-- **BigQuery** → partitioning, clustering, cost optimization
-- **English** → technical fluency for global teams
+| | |
+|---|---|
+| dbt | Jinja, macros, packages |
+| Airflow | DAG scheduling and monitoring |
+| BigQuery | Partitioning, clustering, cost optimization |
+| English | Technical
 
 ---
 
-<div align="center">
-
-📧 manuelntanfumu0@gmail.com · 📍 São Paulo, BR · Remote
-
-</div>
+manuelntanfumu0@gmail.com &nbsp;·&nbsp; São Paulo, BR
