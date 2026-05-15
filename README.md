@@ -1,57 +1,57 @@
-![Available](https://img.shields.io/badge/Available-Remote_·_São_Paulo_BR-4a9e5c?style=flat-square&labelColor=f0f7ee)
+![Available](https://shields.io_·_São_Paulo_BR-4a9e5c?style=flat-square&labelColor=f0f7ee)
 
-# Manuel Ntanfumu
 
-**Software Engineer Jr (Java) · Data Engineer Jr**
+Analytics Engineer
 
-I build reliable systems — from the APIs that generate data to the pipelines that deliver it. My background spans Java backend development and data engineering, and I approach both with the same attention to quality, clarity, and real business impact.
-
----
-
-## Projects
-
-**Credit Approval Analytics** &nbsp;·&nbsp; *Data Engineering · Finance*
-
-End-to-end analysis of credit approval decisions in a simulated financial scenario. SQL and Python for extraction and transformation, analytical modeling, and a Power BI dashboard with credit risk KPIs.
-
-`PostgreSQL` `Python` `Pandas` `Power BI` `Data Modeling`
-
-→ [View project](https://github.com/manntanfumu0/credit-card-analysis)
+Transformo dados brutos em tabelas prontas para consumo e decisões de negócio. Uno boas práticas de engenharia de software — como versionamento, testes e automação — à modelagem de dados analíticos para entregar métricas confiáveis e dashboards eficientes.
 
 ---
 
-**SELIC Data Pipeline** &nbsp;·&nbsp; *Data Engineering · Macroeconomics*
+## 🛠️ Projects
 
-ETL pipeline in Python that extracts, transforms, and organizes Brazil's SELIC interest rate data from a public API. Structured as raw → processed layers following data engineering best practices for analytical readiness.
+**Credit Approval Analytics** &nbsp;·&nbsp; *Analytics Engineering · Finance*
 
-`Python` `Pandas` `Requests` `ETL` `Pipeline design`
+Modelagem dimensional e transformação de dados de aprovação de crédito. Criação de tabelas estruturadas (fatos e dimensões) usando SQL e Python, culminando em um dashboard no Power BI focado em KPIs de risco de crédito.
 
-→ [View project](https://github.com/manntanfumu0/etl-selic)
+`PostgreSQL` `Python` `Pandas` `Data Modeling` `Power BI`
+
+→ [View project](https://github.com)
 
 ---
 
-## Stack
+**SELIC Data Pipeline & Transformation** &nbsp;·&nbsp; *Data Engineering & Analytics · Macroeconomics*
+
+Pipeline que extrai dados da taxa SELIC via API pública e aplica transformações para organizar as informações em camadas (raw e processed), deixando-as estruturadas e prontas para consumo analítico.
+
+`Python` `Requests` `Pandas` `ETL/ELT` `Data Structure`
+
+→ [View project](https://github.com)
+
+---
+
+## 💻 Tech Stack
+
 
 | Area | Tools |
 |---|---|
-| Backend | Java · Spring Boot · REST APIs |
-| Data | Python · SQL · dbt · Airflow · BigQuery |
-| Visualization | Power BI · Tableau |
-| Cloud | BigQuery · AWS S3 |
-| Modeling | Star Schema · Snowflake Schema · OBT |
-| Tooling | Git · GitHub · GitHub Actions · Docker |
+| **Transformação & BI** | dbt · SQL · Power BI · Tableau |
+| **Cloud Warehouses** | Google BigQuery · AWS S3 |
+| **Modelagem** | Star Schema · Snowflake Schema · OBT · Postgres |
+| **Infra & Orquestração** | Airflow · Docker · Python |
+| **Engenharia de Software** | Git · GitHub · GitHub Actions |
 
 ---
 
-## Currently learning
+## 🚀 Currently learning
 
-| | |
+
+| Topic | Focus |
 |---|---|
-| dbt | Jinja, macros, packages |
-| Airflow | DAG scheduling and monitoring |
-| BigQuery | Partitioning, clustering, cost optimization |
-| English | Technical
+| **dbt Avançado** | Jinja, macros, pacotes e testes de qualidade de dados |
+| **BigQuery** | Particionamento, clustering e otimização de custos de query |
+| **Orquestração** | Agendamento e monitoramento de DAGs no Airflow |
+| **Inglês** | Técnico |
 
 ---
 
-manuelntanfumu0@gmail.com &nbsp;·&nbsp; São Paulo, BR
+📬 [manuelntanfumu0@gmail.com](mailto:manuelntanfumu0@gmail.com) &nbsp;·&nbsp; São Paulo, BR
