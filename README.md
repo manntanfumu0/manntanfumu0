@@ -1,8 +1,3 @@
-![Available](https://shields.io_·_São_Paulo_BR-4a9e5c?style=flat-square&labelColor=f0f7ee)
-
-
-Analytics Engineer
-
 Transformo dados brutos em tabelas prontas para consumo e decisões de negócio. Uno boas práticas de engenharia de software — como versionamento, testes e automação — à modelagem de dados analíticos para entregar métricas confiáveis e dashboards eficientes.
 
 ---
