@@ -38,7 +38,7 @@ PostgreSQL Python Pandas Power BI Data Modeling
 Credit Approval Analytics Repository
 
 
-💰 SELIC Data Pipeline
+# 💰 SELIC Data Pipeline
 
 Data Engineering · Macroeconomics
 
@@ -57,7 +57,7 @@ Python Requests Pandas ETL/ELT
 SELIC Data Pipeline Repository
 
 
-🏦 BNDES Analytics Engineering Pipeline
+# 🏦 BNDES Analytics Engineering Pipeline
 
 Modern Data Stack · Cloud Data Engineering
 
@@ -81,7 +81,7 @@ Python Docker Google Cloud Storage BigQuery dbt SQL
 🔗 Projeto:
 BNDES Analytics Pipeline Repository
 
-📈 Atualmente Estudando
+# 📈 Atualmente Estudando
 Data Engineering
 Analytics Engineering
 Cloud Data Platforms
