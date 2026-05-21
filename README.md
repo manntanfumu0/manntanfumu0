@@ -4,22 +4,13 @@ Analytics Engineering em formação com foco em Engenharia de Dados, Data Pipeli
 
 Transformo dados brutos em pipelines estruturados, modelos analíticos e dashboards que apoiam decisões de negócio. Tenho experiência prática construindo soluções utilizando Python, SQL, Docker, BigQuery, dbt, Looker e Power BI seguindo conceitos da Modern Data Stack.
 
-Atualmente desenvolvendo projetos voltados para:
-
-Engenharia de Dados
-Analytics Engineering
-ETL/ELT Pipelines
-Data Warehousing
-Modelagem Dimensional
-Business Intelligence
 
 # 🚀 Stack Principal
 
-Python SQL PostgreSQL BigQuery dbt Docker
-Power BI Pandas Git GitHub Actions Google Cloud
+Analytics engineer | Data Engineer | Python • SQL | Airflow • dbt • BigQuery • Docker | ETL/ELT, Data Modeling & Cloud (GCP/Azure)
 
 # 📌 Projetos em Destaque
-📊 Credit Approval Analytics
+# 📊 Credit Approval Analytics
 
 Analytics Engineering · Finance
 
@@ -38,23 +29,7 @@ PostgreSQL Python Pandas Power BI Data Modeling
 Credit Approval Analytics Repository
 
 
-# 💰 SELIC Data Pipeline
 
-Data Engineering · Macroeconomics
-
-Pipeline de ingestão e transformação de dados da taxa SELIC consumindo APIs públicas.
-
-Principais entregas
-Extração automatizada via API
-Organização em camadas raw e processed
-Estruturação para análises históricas
-Pipeline ETL em Python
-Tecnologias
-
-Python Requests Pandas ETL/ELT
-
-🔗 Projeto:
-SELIC Data Pipeline Repository
 
 
 # 🏦 BNDES Analytics Engineering Pipeline
@@ -81,12 +56,7 @@ Python Docker Google Cloud Storage BigQuery dbt SQL
 🔗 Projeto:
 BNDES Analytics Pipeline Repository
 
-# 📈 Atualmente Estudando
-Data Engineering
-Analytics Engineering
-Cloud Data Platforms
-Inglês para tecnologia
-Arquitetura de Dados Moderna
+
 📬 Contato
 
 📍 São Paulo, Brasil
