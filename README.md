@@ -13,15 +13,6 @@ Transformo dados brutos em pipelines estruturados, modelos analíticos e dashboa
 `Python` • `SQL` • `PostgreSQL` • `BigQuery` • `dbt` • `Airflow` • `Docker`  
 `Power BI` • `Looker Studio` • `Pandas` • `Git` • `GitHub` • `GCP` • `Azure`
 
-### 📌 Áreas de Atuação
-
-- Analytics Engineering
-- Data Engineering
-- ETL / ELT Pipelines
-- Data Modeling
-- Cloud Data Platforms
-- Business Intelligence
-
 ---
 
 # 📌 Projetos em Destaque
@@ -78,15 +69,6 @@ API → Python → Docker → Google Cloud Storage → BigQuery → dbt → Look
 [BNDES Analytics Pipeline Repository](https://github.com)
 
 ---
-
-# 📚 Atualmente Estudando
-
-- Analytics Engineering
-- Engenharia de Dados
-- Arquitetura Moderna de Dados
-- Cloud Computing (GCP & Azure)
-- Business Intelligence
-- Inglês para tecnologia
 
 ---
 
