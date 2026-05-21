@@ -57,7 +57,7 @@ Python Docker Google Cloud Storage BigQuery dbt SQL
 BNDES Analytics Pipeline Repository
 
 
-📬 Contato
+#📬 Contato
 
 📍 São Paulo, Brasil
 📧 manuelntanfumu0@gmail.com
