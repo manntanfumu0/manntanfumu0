@@ -1,52 +1,93 @@
-Transformo dados brutos em tabelas prontas para consumo e decisões de negócio. Uno boas práticas de engenharia de software — como versionamento, testes e automação — à modelagem de dados analíticos para entregar métricas confiáveis e dashboards eficientes.
+# 👋 Olá, eu sou Manuel
 
----
+Analytics Engineering em formação com foco em Engenharia de Dados, Data Pipelines e Business Intelligence.
 
-## 🛠️ Projects
+Transformo dados brutos em pipelines estruturados, modelos analíticos e dashboards que apoiam decisões de negócio. Tenho experiência prática construindo soluções utilizando Python, SQL, Docker, BigQuery, dbt, Looker e Power BI seguindo conceitos da Modern Data Stack.
 
-**Credit Approval Analytics** &nbsp;·&nbsp; *Analytics Engineering · Finance*
+Atualmente desenvolvendo projetos voltados para:
 
-Modelagem dimensional e transformação de dados de aprovação de crédito. Criação de tabelas estruturadas (fatos e dimensões) usando SQL e Python, culminando em um dashboard no Power BI focado em KPIs de risco de crédito.
+Engenharia de Dados
+Analytics Engineering
+ETL/ELT Pipelines
+Data Warehousing
+Modelagem Dimensional
+Business Intelligence
 
-`PostgreSQL` `Python` `Pandas` `Data Modeling` `Power BI`
+# 🚀 Stack Principal
 
-→ [View project](https://github.com)
+Python SQL PostgreSQL BigQuery dbt Docker
+Power BI Pandas Git GitHub Actions Google Cloud
 
----
+# 📌 Projetos em Destaque
+📊 Credit Approval Analytics
 
-**SELIC Data Pipeline & Transformation** &nbsp;·&nbsp; *Data Engineering & Analytics · Macroeconomics*
+Analytics Engineering · Finance
 
-Pipeline que extrai dados da taxa SELIC via API pública e aplica transformações para organizar as informações em camadas (raw e processed), deixando-as estruturadas e prontas para consumo analítico.
+Pipeline analítico voltado para análise de aprovação de crédito e indicadores de risco.
 
-`Python` `Requests` `Pandas` `ETL/ELT` `Data Structure`
+Principais entregas
+Modelagem dimensional (Fato + Dimensões)
+Transformações analíticas com SQL e Python
+Estruturação de métricas para BI
+Dashboard de KPIs no Power BI
+Tecnologias
 
-→ [View project](https://github.com)
+PostgreSQL Python Pandas Power BI Data Modeling
 
----
-
-## 💻 Tech Stack
-
-
-| Area | Tools |
-|---|---|
-| **Transformação & BI** | dbt · SQL · Power BI · Tableau |
-| **Cloud Warehouses** | Google BigQuery · AWS S3 |
-| **Modelagem** | Star Schema · Snowflake Schema · OBT · Postgres |
-| **Infra & Orquestração** | Airflow · Docker · Python |
-| **Engenharia de Software** | Git · GitHub · GitHub Actions |
-
----
-
-## 🚀 Currently learning
+🔗 Projeto:
+Credit Approval Analytics Repository
 
 
-| Topic | Focus |
-|---|---|
-| **dbt Avançado** | Jinja, macros, pacotes e testes de qualidade de dados |
-| **BigQuery** | Particionamento, clustering e otimização de custos de query |
-| **Orquestração** | Agendamento e monitoramento de DAGs no Airflow |
-| **Inglês** | Técnico |
+💰 SELIC Data Pipeline
 
----
+Data Engineering · Macroeconomics
 
-📬 [manuelntanfumu0@gmail.com](mailto:manuelntanfumu0@gmail.com) &nbsp;·&nbsp; São Paulo, BR
+Pipeline de ingestão e transformação de dados da taxa SELIC consumindo APIs públicas.
+
+Principais entregas
+Extração automatizada via API
+Organização em camadas raw e processed
+Estruturação para análises históricas
+Pipeline ETL em Python
+Tecnologias
+
+Python Requests Pandas ETL/ELT
+
+🔗 Projeto:
+SELIC Data Pipeline Repository
+
+
+🏦 BNDES Analytics Engineering Pipeline
+
+Modern Data Stack · Cloud Data Engineering
+
+Projeto completo de engenharia e modelagem de dados utilizando arquitetura moderna em nuvem.
+
+🏗️ Arquitetura
+
+API → Python → Docker → Google Cloud Storage → BigQuery → dbt → Looker Studio
+
+Fluxo do Pipeline
+Extração de dados públicos do BNDES via API CKAN
+Armazenamento em Data Lake no GCS
+External Tables no BigQuery
+Transformações com dbt
+Camadas Bronze, Silver e Gold
+Disponibilização para consumo analítico
+Tecnologias
+
+Python Docker Google Cloud Storage BigQuery dbt SQL
+
+🔗 Projeto:
+BNDES Analytics Pipeline Repository
+
+📈 Atualmente Estudando
+Data Engineering
+Analytics Engineering
+Cloud Data Platforms
+Inglês para tecnologia
+Arquitetura de Dados Moderna
+📬 Contato
+
+📍 São Paulo, Brasil
+📧 manuelntanfumu0@gmail.com
