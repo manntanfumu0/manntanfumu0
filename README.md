@@ -79,8 +79,7 @@ API → Python → Docker → Google Cloud Storage → BigQuery → dbt → Look
 
 ### 🔗 Redes
 
-- GitHub: [github.com/seuusuario](https://github.com)
-- LinkedIn: [linkedin.com/in/seulink](https://linkedin.com)
+- LinkedIn: https://www.linkedin.com/in/manuel-filipe-ntanfumu-dataengineer/
 
 ---
 ```text
