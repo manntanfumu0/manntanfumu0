@@ -1,87 +1,66 @@
-# 👋 Olá, eu sou Manuel
+# 👋 Olá, eu sou Manuel Filipe Ntanfumu
 
-**Analytics Engineer em formação** com foco em **Engenharia de Dados, Data Pipelines e Business Intelligence**.
+**Analytics Engineer & Analista de Dados** com foco em transformar dados brutos em pipelines estruturados, modelos analíticos eficientes e dashboards estratégicos.
 
-Transformo dados brutos em pipelines estruturados, modelos analíticos e dashboards que apoiam decisões de negócio. Tenho experiência prática construindo soluções utilizando **Python, SQL, Docker, BigQuery, dbt, Looker Studio e Power BI**, seguindo conceitos da **Modern Data Stack**.
+Atuo ativamente com conceitos de **Modern Data Stack** e uso inteligente de **IA na prática** para otimizar códigos, documentar processos e acelerar a entrega de valor para o negócio.
 
 ---
 
-# 🚀 Stack Principal
+# 🛠️ Stack Tecnológica
 
-### 🛠️ Tecnologias & Ferramentas
-
-`Python` • `SQL` • `PostgreSQL` • `BigQuery` • `dbt` • `Airflow` • `Docker`  
-`Power BI` • `Looker Studio` • `Pandas` • `Git` • `GitHub` • `GCP` • `Azure`
+* **Linguagens & Manipulação:** Python (Pandas) | SQL (Avançado)
+* **Bancos de Dados & Cloud:** Google Cloud Platform (GCP) | BigQuery | PostgreSQL | Azure
+* **Engenharia & Transformação:** dbt (Core) | Apache Airflow | Docker | Arquitetura Medallion (Bronze/Silver/Gold)
+* **Visualização de Dados (BI):** Power BI | Looker Studio | Excel Avançado
+* **Colaboração & CI/CD:** Git | GitHub | Versionamento de Código
 
 ---
 
 # 📌 Projetos em Destaque
 
-## 📊 Credit Approval Analytics
-### *Analytics Engineering · Finance*
+## 🏦 Pipeline de Analytics Engineering — BNDES
+### *Modern Data Stack · Cloud Data Engineering · IA-Optimized*
 
-Pipeline analítico voltado para análise de aprovação de crédito e indicadores de risco.
-
-### ✅ Principais entregas
-- Modelagem dimensional (Fato + Dimensões)
-- Transformações analíticas com SQL e Python
-- Estruturação de métricas para BI
-- Dashboard de KPIs no Power BI
-
-### 🛠️ Tecnologias
-`PostgreSQL` • `Python` • `Power BI` • `Data Modeling`
-
-### 🔗 Repositório
-[Credit Approval Analytics Repository](https://github.com)
-
----
-
-## 🏦 BNDES Analytics Engineering Pipeline
-### *Modern Data Stack · Cloud Data Engineering*
-
-Projeto completo de engenharia e modelagem de dados utilizando arquitetura moderna em nuvem.
-
----
-
-## 🏗️ Arquitetura do Pipeline
+Desenvolvimento de um pipeline ELT ponta a ponta para ingestão, processamento automatizado e modelagem de dados públicos de desembolsos do BNDES. 
 
 ```text
-API → Python → Docker → Google Cloud Storage → BigQuery → dbt → Looker Studio
+API BNDES ──> Python (Docker) ──> Google Cloud Storage ──> BigQuery (External Tables) ──> dbt (Transformações) ──> Looker Studio
 ```
 
----
+### ✅ Engenharia & Resultados:
+* **Ingestão Automatizada:** Script em Python conteinerizado em Docker para extração via API CKAN e carga no GCS.
+* **Arquitetura Medallion:** Dados limpos e modelados via **dbt** divididos em camadas analíticas (Staging/Marts).
+* **Automação com IA:** Utilização de ferramentas de IA generativa para otimização de queries SQL complexas no dbt e aceleração do processo de engenharia de recursos (feature engineering).
+* **Visualização:** Criação de Dashboard Executivo no Looker Studio para tomada de decisão estratégica.
 
-### 🔄 Fluxo do Pipeline
-
-- Extração de dados públicos do BNDES via API CKAN
-- Armazenamento em Data Lake no Google Cloud Storage
-- External Tables no BigQuery
-- Transformações utilizando dbt
-- Modelagem em camadas Bronze, Silver e Gold
-- Disponibilização para consumo analítico
-
-### 🛠️ Tecnologias
-
-`Python` • `Docker` • `Google Cloud Storage` • `BigQuery` • `dbt` • `SQL`
-
-### 🔗 Repositório
-
-[BNDES Analytics Pipeline Repository](https://github.com)
+### 🔗 Código-Fonte do Projeto
+👉 [Acessar Repositório do BNDES](https://github.com)
 
 ---
 
+## 📊 Credit Approval Analytics
+### *Analytics Engineering · Finanças & Risco*
+
+Pipeline analítico e modelagem dimensional voltados para análise de concessão de crédito, inadimplência e indicadores de risco financeiro.
+
+### ✅ Engenharia & Resultados:
+* **Modelagem de Dados:** Estruturação de modelo dimensional (Fato e Dimensões) focado em performance de consulta.
+* **Tratamento de Dados:** Pipelines em Python e SQL para higienização de dados de clientes e propostas de crédito.
+* **Business Intelligence:** Desenvolvimento de dashboard de KPIs macroeconômicos e de risco de crédito no Power BI.
+
+### 🔗 Código-Fonte do Projeto
+👉 [Acessar Repositório Credit Analytics](https://github.com) *(Substitua pelo link correto se houver)*
+
 ---
 
-# 📬 Contato
+# 📬 Contato & Redes
 
 📍 São Paulo, Brasil  
-📧 **manuelntanfumu0@gmail.com**
+📧 [manuelntanfumu0@gmail.com](mailto:manuelntanfumu0@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/manuel-filipe-ntanfumu-dataengineer/)  
 
-### 🔗 Redes
-
-- LinkedIn: https://www.linkedin.com/in/manuel-filipe-ntanfumu-dataengineer/
 
 ---
 ```text
-"Transformando dados em informação estratégica."
+"Transformando dados em informação estratégica e processos eficientes."
 ```
