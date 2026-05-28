@@ -34,7 +34,7 @@ API BNDES ──> Python (Docker) ──> Google Cloud Storage ──> BigQuery 
 * **Visualização:** Criação de Dashboard Executivo no Looker Studio para tomada de decisão estratégica.
 
 ### 🔗 Código-Fonte do Projeto
-👉 [Acessar Repositório do BNDES](https://github.com)
+👉 https://github.com/manntanfumu0/pipeline-desembolsos-bndes
 
 ---
 
@@ -49,7 +49,7 @@ Pipeline analítico e modelagem dimensional voltados para análise de concessão
 * **Business Intelligence:** Desenvolvimento de dashboard de KPIs macroeconômicos e de risco de crédito no Power BI.
 
 ### 🔗 Código-Fonte do Projeto
-👉 [Acessar Repositório Credit Analytics](https://github.com) *(Substitua pelo link correto se houver)*
+👉 https://github.com/manntanfumu0/credit-card-analysis
 
 ---
 
