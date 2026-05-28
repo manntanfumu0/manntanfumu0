@@ -1,4 +1,4 @@
-# Manuel Filipe Ntanfumu
+
 
 **Analytics Engineer & Analista de Dados** com foco em transformar dados brutos em pipelines estruturados, modelos analíticos eficientes e dashboards estratégicos.
 
