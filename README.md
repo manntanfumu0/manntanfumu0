@@ -55,62 +55,69 @@ I enjoy applying software engineering practices to data projects while leveragin
 
 ## 🏦 BNDES Analytics Engineering Pipeline
 
-End-to-end ELT pipeline built with the Modern Data Stack for processing public BNDES loan disbursement data.
+End-to-end **ELT pipeline** built with the **Modern Data Stack** for ingesting, transforming, and modeling public BNDES loan disbursement data on Google Cloud.
 
-```
+**Architecture**
+
+```text
 BNDES API
-      │
-      ▼
+    │
+    ▼
 Python + Docker
-      │
-      ▼
+    │
+    ▼
 Google Cloud Storage
-      │
-      ▼
+    │
+    ▼
 BigQuery
-      │
-      ▼
-dbt
-      │
-      ▼
+    │
+    ▼
+dbt Core
+    │
+    ▼
 Looker Studio
 ```
 
-### Highlights
+### 🔑 Key Highlights
 
-- Automated ingestion from CKAN API
-- Containerized extraction using Docker
-- BigQuery External Tables
-- Medallion Architecture
-- dbt models
-- Data Quality Tests
-- Executive Dashboard
+- Automated data ingestion from the BNDES CKAN API
+- Containerized extraction with Docker
+- Data Lake architecture using Google Cloud Storage
+- BigQuery External Tables for cost-efficient querying
+- ELT transformations and dimensional modeling with dbt
+- Data quality validation through dbt tests
+- Interactive executive dashboard in Looker Studio
 
-👉 Repository
+**Tech Stack**
 
+`Python` • `Docker` • `Google Cloud Storage` • `BigQuery` • `dbt Core` • `Looker Studio`
+
+🔗 **Repository:**  
 https://github.com/manntanfumu0/pipeline-desembolsos-bndes
 
 ---
 
 ## 💳 Credit Approval Analytics
 
-Analytics Engineering project focused on credit approval, customer segmentation and financial risk analysis.
+Analytics project that simulates a real-world credit approval process by combining **Python**, **SQL**, and **Power BI** to analyze customer profiles, financial behavior, and credit risk.
 
-### Highlights
+### 🔑 Key Highlights
 
-- Star Schema
-- Dimensional Modeling
-- Python Data Cleaning
-- SQL Analytics
-- Power BI Dashboard
-- Credit Risk KPIs
+- Data cleaning and preprocessing with Python
+- Exploratory Data Analysis (EDA)
+- SQL-based analytical queries
+- Star Schema and dimensional modeling
+- Interactive Power BI dashboard
+- Business insights for credit approval and risk assessment
 
-👉 Repository
+**Tech Stack**
 
+`Python` • `Pandas` • `PostgreSQL` • `SQL` • `Power BI`
+
+🔗 **Repository:**  
 https://github.com/manntanfumu0/credit-card-analysis
 
 ---
-
 
 # 📫 Connect with me
 
