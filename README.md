@@ -9,49 +9,47 @@ I enjoy applying software engineering practices to data projects while leveragin
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## ⚙️ Analytics Engineering
+### ⚙️ Analytics Engineering
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" width="52" alt="dbt"/>
-  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" width="52" alt="BigQuery"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbt.svg" width="48" alt="dbt"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlebigquery.svg" width="48" alt="BigQuery"/>
 </p>
 
 ---
 
-## 🐍 Data Engineering
+### 🐍 Data Engineering
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,docker" />
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="52" alt="Apache Airflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apacheairflow.svg" width="48" alt="Apache Airflow"/>
 </p>
 
 ---
 
-## ☁️ Cloud & Databases
+### ☁️ Cloud & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,azure,postgres" />
+  <img src="https://skillicons.dev/icons?i=gcp,postgres,azure" />
 </p>
 
 ---
 
-## 📊 Business Intelligence
+### 📊 Business Intelligence
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="52" alt="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" />
 </p>
 
 ---
 
-## 🔧 Development Tools
+### 🔧 Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
----
-
 
 # 📌 Featured Projects
 
