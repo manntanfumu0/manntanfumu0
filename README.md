@@ -1,66 +1,117 @@
+# Hi, I'm Manuel 👋
+### Analytics Engineer Junior | Data Engineering | Modern Data Stack
 
+I work at the intersection of data engineering and business, transforming raw data into reliable analytical assets that support strategic decision-making.
 
-**Analytics Engineer & Analista de Dados** com foco em transformar dados brutos em pipelines estruturados, modelos analíticos eficientes e dashboards estratégicos.
+My experience includes building end-to-end ELT pipelines using the Modern Data Stack, designing dimensional models with dbt and BigQuery, implementing data quality tests, optimizing SQL performance, and creating scalable analytics solutions in cloud environments.
 
-Atuo ativamente com conceitos de **Modern Data Stack** e uso inteligente de **IA na prática** para otimizar códigos, documentar processos e acelerar a entrega de valor para o negócio.
-
----
-
-# 🛠️ Stack Tecnológica
-
-* **Linguagens & Manipulação:** Python (Pandas) | SQL (Avançado)
-* **Bancos de Dados & Cloud:** Google Cloud Platform (GCP) | BigQuery | PostgreSQL | Azure
-* **Engenharia & Transformação:** dbt (Core) | Apache Airflow | Docker | Arquitetura Medallion (Bronze/Silver/Gold)
-* **Visualização de Dados (BI):** Power BI | Looker Studio | Excel Avançado
-* **Colaboração & CI/CD:** Git | GitHub | Versionamento de Código
+I enjoy applying software engineering practices to data projects while leveraging Generative AI to accelerate development, testing, and technical documentation.
 
 ---
 
-# 📌 Projetos em Destaque
+## 🚀 Tech Stack
 
-## 🏦 Pipeline de Analytics Engineering — BNDES
-### *Modern Data Stack · Cloud Data Engineering · IA-Optimized*
+### Analytics Engineering
 
-Desenvolvimento de um pipeline ELT ponta a ponta para ingestão, processamento automatizado e modelagem de dados públicos de desembolsos do BNDES. 
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-```text
-API BNDES ──> Python (Docker) ──> Google Cloud Storage ──> BigQuery (External Tables) ──> dbt (Transformações) ──> Looker Studio
+### Cloud & Databases
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Data Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+### Version Control
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+## 🏦 BNDES Analytics Engineering Pipeline
+
+End-to-end ELT pipeline built with the Modern Data Stack for processing public BNDES loan disbursement data.
+
+```
+BNDES API
+      │
+      ▼
+Python + Docker
+      │
+      ▼
+Google Cloud Storage
+      │
+      ▼
+BigQuery
+      │
+      ▼
+dbt
+      │
+      ▼
+Looker Studio
 ```
 
-### ✅ Engenharia & Resultados:
-* **Ingestão Automatizada:** Script em Python conteinerizado em Docker para extração via API CKAN e carga no GCS.
-* **Arquitetura Medallion:** Dados limpos e modelados via **dbt** divididos em camadas analíticas (Staging/Marts).
-* **Automação com IA:** Utilização de ferramentas de IA generativa para otimização de queries SQL complexas no dbt e aceleração do processo de engenharia de recursos (feature engineering).
-* **Visualização:** Criação de Dashboard Executivo no Looker Studio para tomada de decisão estratégica.
+### Highlights
 
-### 🔗 Código-Fonte do Projeto
-👉 https://github.com/manntanfumu0/pipeline-desembolsos-bndes
+- Automated ingestion from CKAN API
+- Containerized extraction using Docker
+- BigQuery External Tables
+- Medallion Architecture
+- dbt models
+- Data Quality Tests
+- Executive Dashboard
 
----
+👉 Repository
 
-## 📊 Credit Approval Analytics
-### *Analytics Engineering · Finanças & Risco*
-
-Pipeline analítico e modelagem dimensional voltados para análise de concessão de crédito, inadimplência e indicadores de risco financeiro.
-
-### ✅ Engenharia & Resultados:
-* **Modelagem de Dados:** Estruturação de modelo dimensional (Fato e Dimensões) focado em performance de consulta.
-* **Tratamento de Dados:** Pipelines em Python e SQL para higienização de dados de clientes e propostas de crédito.
-* **Business Intelligence:** Desenvolvimento de dashboard de KPIs macroeconômicos e de risco de crédito no Power BI.
-
-### 🔗 Código-Fonte do Projeto
-👉 https://github.com/manntanfumu0/credit-card-analysis
+https://github.com/manntanfumu0/pipeline-desembolsos-bndes
 
 ---
 
-# 📬 Contato & Redes
+## 💳 Credit Approval Analytics
 
-📍 São Paulo, Brasil  
-📧 [manuelntanfumu0@gmail.com](mailto:manuelntanfumu0@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/manuel-filipe-ntanfumu-dataengineer/)  
+Analytics Engineering project focused on credit approval, customer segmentation and financial risk analysis.
 
+### Highlights
+
+- Star Schema
+- Dimensional Modeling
+- Python Data Cleaning
+- SQL Analytics
+- Power BI Dashboard
+- Credit Risk KPIs
+
+👉 Repository
+
+https://github.com/manntanfumu0/credit-card-analysis
 
 ---
-```text
-"Transformando dados em informação estratégica e processos eficientes."
-```
+
+# 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manntanfumu0&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manntanfumu0&layout=compact&theme=github_dark)
+
+---
+
+# 📫 Connect with me
+
+📍 São Paulo, Brazil
+
+📧 manuelntanfumu0@gmail.com
+
+💼 https://www.linkedin.com/in/manuel-filipe-ntanfumu-dataengineer/
+
+---
+
+> *Transforming raw data into reliable business intelligence.*
