@@ -40,7 +40,7 @@ I enjoy applying software engineering practices to data projects while leveragin
 ### 📊 Business Intelligence
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="48" alt="Power BI">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" alt="Power BI"/>
 </p>
 
 ---
