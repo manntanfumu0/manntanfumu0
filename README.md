@@ -1,5 +1,5 @@
 # Hi, I'm Manuel 👋
-### Analytics Engineer Junior | Data Engineering | Modern Data Stack
+### Analytics Engineer Junior 
 
 I work at the intersection of data engineering and business, transforming raw data into reliable analytical assets that support strategic decision-making.
 
