@@ -1,6 +1,6 @@
 # Hi, I'm Manuel 👋
 
-### Junior AI Engineer | Generative AI | LLMs | Python
+### Junior AI Engineer 
 
 I’m a technology professional developing my career in **AI Engineering**, with a focus on **Generative AI, LLMs, AI Agents, RAG, and Python**.
 
