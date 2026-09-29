@@ -1,11 +1,7 @@
 # Hi, I'm Manuel 👋
-
-### Junior AI Engineer 
-
-I’m a technology professional developing my career in **AI Engineering**, with a focus on **Generative AI, LLMs, AI Agents, RAG, and Python**.
-
-My background combines **software development, data engineering, APIs, and cloud computing**. I’m currently focused on building practical AI applications and exploring how AI models can be integrated with data, APIs, tools, and real-world systems.
-
+### Junior Analytics Engineer
+I’m a technology professional developing my career in Analytics Engineering, with a focus on Python, SQL, dbt, and the Modern Data Stack.
+My background combines data engineering, cloud computing, and analytical modeling. I’m currently focused on building end-to-end ELT pipelines and transforming raw data into clean, modeled, and reliable data products that bridge the gap between engineering and strategic business decisions.
 I enjoy learning through hands-on projects and applying software engineering practices to build useful and reliable AI solutions.
 
 ---
